@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente construyendo un **sitio portfolio para un artista**
 
-- 🌱 Aprendiendo **Node.js y EJS** para desarrollo web
+- 🌱 Aprendiendo **React** para desarrollo web
 
 - 💬 Pregúntame sobre **HTML, CSS y Node.js**
 
